@@ -1,0 +1,10 @@
+
+class Company:
+
+  """
+  :version:
+  :author:
+  """
+
+
+

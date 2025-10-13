@@ -1,0 +1,10 @@
+
+class integer:
+
+  """
+  :version:
+  :author:
+  """
+
+
+

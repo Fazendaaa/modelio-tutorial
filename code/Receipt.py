@@ -1,0 +1,10 @@
+
+class Receipt:
+
+  """
+  :version:
+  :author:
+  """
+
+
+

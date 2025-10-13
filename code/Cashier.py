@@ -1,0 +1,10 @@
+
+class Cashier:
+
+  """
+  :version:
+  :author:
+  """
+
+
+

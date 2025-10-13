@@ -1,0 +1,10 @@
+
+class datetime:
+
+  """
+  :version:
+  :author:
+  """
+
+
+

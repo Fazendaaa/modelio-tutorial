@@ -1,0 +1,10 @@
+
+class Invoice:
+
+  """
+  :version:
+  :author:
+  """
+
+
+
